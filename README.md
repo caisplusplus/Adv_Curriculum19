@@ -1,2 +1,2 @@
-# Adv_Curriculum19
+# fc19-advanced
 Advanced Curriculum for Fall 2019 Cohort
